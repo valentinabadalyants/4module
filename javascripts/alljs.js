@@ -29,7 +29,7 @@ $(document).ready(function(){
 //   });
 // });
 function myFunction() {
-  window.location.href="mainpaige.html";
+  window.location.href="index.html";
 }
 
 // для магазина появление картинки
