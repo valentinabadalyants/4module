@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "DejaVuSansMono";
+  src: url("../fonts/DejaVuSansMono.ttf") format("opentype"),
+    url("../fonts/DejaVuSansMono.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Fugue-Regular";
+  src: url("../fonts/Fugue-Regular.ttf") format("opentype"),
+    url("../fonts/Fugue-Regular.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "thin_pixel-7";
+  src: url("../fonts/thin_pixel-7.ttf") format("opentype"),
+    url("../fonts/thin_pixel-7.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
