@@ -156,7 +156,7 @@ button {
   border-left: 0.14vw solid  #0315B6;
   transition: 0.5s;
 }
-.r1 { 
+.r1 {
   margin-left: 84.28vw;
   margin-top: 4.1vw;
 }
@@ -202,6 +202,7 @@ button {
   /* margin-top: -2.78vw; */
   margin-left: 10.75vw;
   margin-top: 40vw;
+  position: absolute;
 
 }
 .hovered {
@@ -231,6 +232,8 @@ button {
 .kl2 {
   margin-left: 10.75vw;
   margin-top: 40vw;
+  position: absolute;
+
 }
 .hovered4 {
   margin-top: -31vw;
@@ -253,6 +256,7 @@ button {
   transition: 0.8s;
 }
 .kl3 {
+  position: absolute;
   margin-left: 10.75vw;
   margin-top: 40vw;
 }
@@ -785,4 +789,55 @@ form>input {
 .mcd {
   margin-top: 46vw;
   margin-left: 15vw;
+}
+.basetshirt {
+  background-image: url("../images/c15.png");
+  background-size: auto 100%;
+  width: 100%;
+  height: 75.21vw;
+}
+.textitem {
+  font-family: "Fugue-Regular";
+  font-size: 1.81vw;
+  color: #0315B6;
+}
+.ti2 {
+  margin-left: 72.57vw;
+  margin-top: -58.39vw;
+}
+.aadd:hover .textitem{
+    color: #649FF8;
+}
+.eexit:hover .textitem{
+    color: #649FF8;
+}
+.basecase {
+  background-image: url("../images/c14.png");
+  background-size: auto 100%;
+  width: 100%;
+  height: 75.21vw;
+}
+.basebags {
+  background-image: url("../images/c13.png");
+  background-size: auto 100%;
+  width: 100%;
+  height: 75.21vw;
+}
+.basescarf {
+  background-image: url("../images/c12.png");
+  background-size: auto 100%;
+  width: 100%;
+  height: 75.21vw;
+}
+.basebag {
+  background-image: url("../images/c11.png");
+  background-size: auto 100%;
+  width: 100%;
+  height: 75.21vw;
+}
+.basebrelok {
+  background-image: url("../images/c10.png");
+  background-size: auto 100%;
+  width: 100%;
+  height: 75.21vw;
 }
