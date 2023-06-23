@@ -811,6 +811,9 @@ form>input {
 .eexit:hover .textitem{
     color: #649FF8;
 }
+.colorok {
+  color: #649FF8;
+}
 .basecase {
   background-image: url("../images/c14.png");
   background-size: auto 100%;

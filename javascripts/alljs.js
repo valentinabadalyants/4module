@@ -75,7 +75,15 @@ $(document).ready(function(){
     $('.in16').toggleClass("op");
  });
 });
-
+$(document).ready(function(){
+  $(".aadd").hover(function(){
+    $('.add').toggleClass("colorok");
+ });
+});$(document).ready(function(){
+  $(".eexit").hover(function(){
+    $('.exit').toggleClass("colorok");
+ });
+});
 
 function myFunction2() {
   window.location.href="t-shirt.html";
